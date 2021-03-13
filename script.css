@@ -8,13 +8,7 @@ h1 {
     font-weight: 300;
 }
 
-#app {
-    width: 100%;
-    height: 800px;
-    background-color: aliceblue;
-}
-
-#game {
+s #game {
     width: 100%;
     height: 800px;
     background-color: lightcoral;
@@ -41,4 +35,39 @@ img:hover {
     background-color: #000;
     width: 70px;
     margin: 8px auto;
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: red;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#myCarousel2 {
+    background-color: #b5d0d4;
+}
+
+#myCarousel2 img {
+    height: 300px;
+    margin-top: 35px;
 }
