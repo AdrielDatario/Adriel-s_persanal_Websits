@@ -52,15 +52,15 @@
     margin-top: 10px;
 }
 
-#contact iframe{
+#contact iframe {
     width: 100%;
 }
 
-.contact_1 h3{
+.contact_1 h3 {
     display: inline;
 }
 
-.header_entrepreneur{
+.header_entrepreneur {
     line-height: 2;
 }
 
@@ -72,14 +72,14 @@
     margin-top: 100px;
 }
 
-.img_modal{
-    display:inline-block;
+.img_modal {
+    display: inline-block;
 }
 
-.p_modal{
+.p_modal {
     margin-top: 10px;
 }
 
-.book{
+.book {
     cursor: pointer;
 }
